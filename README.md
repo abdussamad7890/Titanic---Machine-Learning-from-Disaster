@@ -24,3 +24,9 @@ The gender_submission.csv file is provided as an example that shows how should p
 A "PassengerId" column containing the IDs of each passenger from test.csv.
 A "Survived" column (that you will create!) with a "1" for the rows where you think the passenger survived, and
 A "0" where you predict that the passenger died.
+
+## Used Python Libraries:
+* Pandas
+* Numpy
+* Scikit-learn
+* Machine learning Library: Random Forest Classifier
